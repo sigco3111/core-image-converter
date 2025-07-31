@@ -1,0 +1,6 @@
+{
+  "name": "Core Image Converter",
+  "description": "A powerful batch image converter that lets you change image formats, resize, and compress right in your browser. Supports PNG, JPEG, WEBP, GIF, AVIF formats and various conversion options, including AI-powered renaming.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
