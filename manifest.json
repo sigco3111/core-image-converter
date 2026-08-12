@@ -1,0 +1,16 @@
+{
+  "name": "Core Image Converter",
+  "short_name": "이미지 변환기",
+  "description": "AI 기반 이미지 변환 도구",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
