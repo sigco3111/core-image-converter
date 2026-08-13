@@ -2,9 +2,9 @@
 
 강력한 브라우저 기반의 대량 이미지 변환기로, 서버에 파일을 업로드하지 않고 이미지 포맷을 변경하고, 크기를 조절하며, 압축할 수 있습니다. 모든 처리는 사용자의 기기에서 이루어지므로 개인정보가 안전하게 보호됩니다.
 
-실행주소1 : https://sigco3111.github.io/core-image-converter/
+라이브 데모 : https://sigco3111.github.io/core-image-converter/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/core-image-converter/)
 
 ## ✨ 주요 기능
 
